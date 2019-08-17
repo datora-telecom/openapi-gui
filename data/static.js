@@ -164,4 +164,3 @@ if (typeof module !== 'undefined') {
     petstore: petstore
   };
 }
-
